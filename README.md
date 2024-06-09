@@ -1,7 +1,7 @@
 Hi 👋 My name is Naveen Kumar
 =============================
 
-Python Develope
+DevOps Engineer
 ---------------
 
 Starting my journey as a Python developer, I discovered my true passion in DevOps. Now, I'm focused on mastering DevOps engineering to build efficient, scalable systems. Excited to share my projects and learnings here!
@@ -11,9 +11,6 @@ Starting my journey as a Python developer, I discovered my true passion in DevOp
 * 🧠  I'm learning DevOPs CI/CD piplines
 * 🤝  I'm open to collaborating on real website project
 * ⚡  I am a brave person
-
-<a href="https://www.github.com/Naveenknf" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Naveenknf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
